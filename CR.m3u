@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,13-Sinart
 http://190.83.119.67:8000/play/a00k/index.m3u8
 #EXTINF:-1,A&E
